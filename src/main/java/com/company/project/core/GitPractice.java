@@ -4,7 +4,7 @@ public class GitPractice {
 
 
     public String getMessage() {
-        return "Git practice started";
+        return "Git workflow completed";
     }
 
 
